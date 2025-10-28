@@ -1,2 +1,2 @@
-pyttsx3
-gtts
+pyttsx3==2.90
+gTTS==2.2.3
